@@ -1,5 +1,5 @@
 # Sunpeng's About Me
-My personal about me website: [nhok-them.github.io/AboutMe](https://nhok-them.github.io/AboutMe/)
+My personal about me website: [https://nhok-them.github.io/Penguin/profile.html](https://nhok-them.github.io/Penguin/profile.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
